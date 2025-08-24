@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @YulShel
-- 👀 I’m interested in data analysis, data visualization
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on data analyses projects
+- 👋 Hi, I’m Julia!
+- 👀 Currently learning all things related to data analyses and AI
+- 💞️ Created custom PowerBi Dashboard highlighting H&M sales.
 - 📫 How to reach me https://www.linkedin.com/in/yulia-shelepkova/
 
 <!---
